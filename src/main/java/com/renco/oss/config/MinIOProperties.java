@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  */
 @Data
 @Configuration
-@ConfigurationProperties(prefix = "minIO")
+@ConfigurationProperties(prefix = "minio")
 public class MinIOProperties {
 
     /**
