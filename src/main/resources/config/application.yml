@@ -1,0 +1,5 @@
+minio:
+  endpoint: http://127.0.0.1:9000
+  bucket-name: test
+  access-key: admin
+  secret-key: password
